@@ -1,13 +1,13 @@
 # allblue
 Language base study.
 
-- [x] 1. Swift  
-- [x] 2. Golang  
-- [x] 3. Javascript  
-- [x] 4. Java  
-- [x] 5. Ruby  
-- [x] 6. Python  
-- [x] 7. Erlang  
+- [ ] 1. Swift  
+- [ ] 2. Golang  
+- [ ] 3. Javascript  
+- [ ] 4. Java  
+- [ ] 5. Ruby  
+- [ ] 6. Python  
+- [ ] 7. Erlang  
 
 
 
