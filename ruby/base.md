@@ -1,6 +1,6 @@
 ##注释
 
-```
+```ruby
 #Returns the full title on a per-page basis.
 def full_title(page_title)
   .
@@ -14,7 +14,7 @@ end
 
 ##字符串
 
-```
+```ruby
 “” #空字符串
 “foo” #非空的字符串
 
@@ -52,7 +52,7 @@ foo => nil
 
 ##对象及向其船体消息
 
-```
+```ruby
 #Ruby中一切都是对象，包括字符串和nil都是。
 
 #方法
@@ -90,7 +90,7 @@ NoMethodError: undefined method `empty?' for nil:NilClass
 
 ##方法
 
-```
+```ruby
 #Ruby会非显式的返回值，也支持显式的指定返回值，以下两种效果一样。
 >> def string_message(string)
 >>   if string.empty?
@@ -113,7 +113,7 @@ The string is nonempty.
 
 ##数组和Range
 
-```
+```ruby
 >> "fooxbarxbazx".split('x')
 => ["foo", "bar", "baz"]
 
@@ -194,7 +194,7 @@ Range 经常被用来获取一组数组元素,也可以使用字母
 
 ##块
 
-```
+```ruby
 #数组和Range可以响应的方法中有很多都可以跟着一个块(block)
 >> (1..5).each{|i| puts 2*i}
 2
@@ -239,7 +239,7 @@ Range 经常被用来获取一组数组元素,也可以使用字母
 
 ##Hash 和 Symbol
 
-```
+```ruby
 #Hash 本质上就是数组，只不过它的索引不局限于使用数字。
 #Hash 的索引（或者叫“键”）几乎可以是任何对象。
 
@@ -324,7 +324,7 @@ It worked!
 
 ##类.构造器
 
-```
+```ruby
 #Ruby 和其他面向对象（object-oriented）编程语言一样，使用类来组织方法。
 #然后实例化（instantiate）类创建对象。如果你刚接触面向对象编程，
 #这些都似天书一般，那么让我们来看一些实际的例子吧。
@@ -349,7 +349,7 @@ It worked!
 
 ##类.继承
 
-```
+```ruby
 >> s = String.new("foobar")
 => "foobar"
 >> s.class                        # 查找 s 所属的类
@@ -404,7 +404,7 @@ It worked!
 
 ##修改内置类
 
-```
+```ruby
 ##Ruby允许你这样操作原生类，但不推荐啊，不推荐。
 >> class String
 >>   # 如果字符串和自己反转后相等则返回 true
