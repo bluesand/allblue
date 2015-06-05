@@ -2,7 +2,7 @@
 Language base study.
 
 - [ ] 1. Swift  
-- [ ] 2. Golang
+- [ ] 2. Go
     * [hello](go/1.1.md)
     * [基础](go/1.2.md)
     * [流程和函数](go/1.3.md)
@@ -15,7 +15,7 @@ Language base study.
 - [ ] 3. Javascript  
 - [ ] 4. Java  
 - [ ] 5. Ruby
-  * [base](ruby/base.md)
+  * [hello](ruby/base.md)
 - [ ] 6. Python  
 - [ ] 7. Erlang  
 
