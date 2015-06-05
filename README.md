@@ -10,7 +10,7 @@ Language base study.
     * [面向对象](go/1.5.md)
     * [interface](go/1.6.md)
     * [并发](go/1.7.md)
-    * [preface](go/preface.md)
+    * [README](go/README.md)
     * [回顾](go/2.0.md)  
 - [ ] 3. Javascript  
 - [ ] 4. Java  
