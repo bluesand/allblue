@@ -6,7 +6,7 @@
 前段时间微博上炒得很火，传说是下一代的C语言，并发能力跟Erlang不相上下，以及其他bulala，重要的这是Google的。
 
 ##Go笔记目录
-* [目录](preface.md)
+* [目录](go/README.md)
 
 ##参考资料
 * [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
