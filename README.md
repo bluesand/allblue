@@ -2,6 +2,7 @@
 Language base study.
 
 - [ ] 1. Swift  
+  * [基础](swift/1.1.md)
 - [ ] 2. Go
     * [hello](go/1.1.md)
     * [基础](go/1.2.md)
