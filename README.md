@@ -4,6 +4,8 @@ Language base study.
 - [ ] 1. Swift  
   * [基础](swift/1.1.md)
   * [基本运算符](swift/1.2.md)
+  * [字符串和字符](swift/1.3.md)
+  * [集合类型](swift/1.4.md)
 - [ ] 2. Go
     * [hello](go/1.1.md)
     * [基础](go/1.2.md)
