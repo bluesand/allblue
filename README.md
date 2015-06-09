@@ -9,6 +9,7 @@ Language base study.
   * [控制流](swift/1.5.md)
   * [函数](swift/1.6.md)
   * [闭包](swift/1.7.md)
+  * [枚举](swift/1.8.md)
 - [ ] 2. Go
     * [hello](go/1.1.md)
     * [基础](go/1.2.md)
